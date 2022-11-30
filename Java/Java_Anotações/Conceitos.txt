@@ -1,0 +1,4 @@
+Encapsulamento
+Construtor
+Composição - Conceito de um atributo ser do tipo de outra classe
+Herança

@@ -1,0 +1,8 @@
+FORMULAS DACX
+
+
+Valor Produto = LOOKUPVALUE(coluna a ser repetida,Chave primária da outra tabela,Chave primária da tabela atual para relacionar)- 
+EXEMPLO = Valor Produto = LOOKUPVALUE(Produtos[Valor],Produtos[ID Produto],[ID Produto])
+
+CALCULATE(Operação a ser feita, Filtro)
+EXEMPLO = CALCULATE(COUNT(Clientes[Assinatura ativa]), Clientes[Assinatura ativa] = “não”)

@@ -1,0 +1,6 @@
+https://www.opendatani.gov.uk/
+https://datasetsearch.research.google.com/
+https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html
+https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+https://docs.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
+https://www.kaggle.com/datasets
